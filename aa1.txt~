@@ -1,0 +1,113 @@
+Project: Kotelnikov-2016
+Owner: INCA Operator
+Elevation= 35.0  deg.  Tilt= 0.0 deg.  Azimuth= 0.0 deg.
+Sample: 01-06-2016
+Type: Default
+Sample is polished and coated with Carbon  - thickness (nm): 15.0, density (g/cm3): 2.25.
+Thresholding has been selected :
+   All quantitative results below 0 sigma have been set to zero.
+Site: 7013
+Spectrum: Spectrum 6                         19-ñåí-2014 02:06 PM
+   L./R.time(s)  P.time U(kV)  Perr. 
+   70.00/95.18      6   20.00  95.45%
+Counted by INCA
+INCA Proc.Option: Oxygen by stoichiometry
+Elmt   A.C.%   IntC.    Wt%  2*Swt%     At%  Comp%  dComp%       Formula
+Na K    0.09  0.6321   0.14 <  0.30    0.16   0.18 <  0.40  Na2O    0.06
+Mg K    0.29  0.6189   0.46    0.22    0.52   0.77    0.36  MgO     0.19
+Al K    0.08  0.7473   0.10 <  0.16    0.10   0.19 <  0.30 Al2O3    0.04
+Si K    0.46  0.8679   0.53    0.20    0.51   1.14    0.43  SiO2    0.18
+P  K    0.00  1.2546   0.00    0.00    0.00                 P2O5    0.00
+K  K    0.01  1.1565   0.01 <  0.16    0.00   0.01 <  0.19  K2O     0.00
+Ca K    0.13  1.1259   0.12 <  0.16    0.08   0.17 <  0.22  CaO     0.03
+Ti K   45.24  0.8991  50.32    0.96   28.49  83.94    1.60  TiO2   10.23
+Sr K    0.08  0.8613   0.09 <  3.64    0.03   0.11 <  4.30  SrO     0.01
+Nb L    9.03  0.8355  10.81    0.90    3.15  15.46    1.29 Nb2O5    1.13
+Cs L    0.24  0.9920   0.25 <  0.74    0.05   0.26 <  0.78  Cs2O    0.02
+La L    0.02  0.9389   0.02 <  1.18    0.00   0.03 <  1.38 La2O3    0.00
+Ce L    0.23  0.9409   0.25 <  0.84    0.05   0.29 <  0.98 Ce2O3    0.02
+O                     39.45    1.98   66.85                        24.00
+Total                102.54+/- 4.67 CompSum 102.55+/- 5.19 CatSum  11.90
+                                                           An.Sum  24.00
+-----------------------------------------------
+Spectrum: Spectrum 2                          1-èþí-2016 02:47 PM
+Energy Resn.  Area  TOT.AR.   L./R.time(s)  P.time U(kV)  Perr. 
+  .0   46.44 275184  54347    70.00/82.15      6   20.00  95.45%
+Counted by INCA
+INCA Proc.Option: Oxygen by stoichiometry
+Elmt   A.C.%   IntC.    Wt%  2*Swt%     At%  Comp%  dComp%       Formula
+Na K   18.37  1.0787  17.03    0.78   17.74  22.95    1.05  Na2O    7.75
+Mg K    0.58  0.6650   0.87    0.30    0.86   1.44    0.50  MgO     0.37
+Al K   13.20  0.7693  17.16    0.66   15.24  32.43    1.25 Al2O3    6.66
+Si K    8.66  0.6730  12.86    0.64   10.97  27.52    1.37  SiO2    4.79
+Ca K    0.00  0.9505   0.00    0.00    0.00                 CaO     0.00
+Ti K    0.22  0.8166   0.27    0.26    0.14   0.46    0.43  TiO2    0.06
+Sr L    0.21  0.6512   0.32 <  0.98    0.09   0.38 <  1.16  SrO     0.04
+Cs L    0.00  0.8997   0.00    0.00    0.00                 Cs2O    0.00
+La L    0.04  0.8531   0.05 <  0.66    0.01   0.05 <  0.77 La2O3    0.00
+Ce L    0.14  0.8553   0.17 <  0.54    0.03   0.19 <  0.63 Ce2O3    0.01
+O                     36.70    1.20   54.94                        24.00
+Total                 85.42+/- 2.18 CompSum  85.42+/- 2.70 CatSum  19.69
+                                                           An.Sum  24.00
+
+Site: 7011
+Spectrum: Spectrum 1                          1-èþí-2016 05:22 PM
+Energy Resn.  Area  TOT.AR.   L./R.time(s)  P.time U(kV)  Perr. 
+  .0   46.44 275184  66861    70.00/85.22      6   20.00  95.45%
+Counted by INCA
+INCA Proc.Option: Oxygen by stoichiometry
+Elmt   A.C.%   IntC.    Wt%  2*Swt%     At%  Comp%  dComp%       Formula
+Na K    9.15  0.7110  12.87    0.88   15.70  17.35    1.19  Na2O    6.85
+Mg K    0.11  0.5580   0.21 <  0.28    0.24   0.34 <  0.46  MgO     0.10
+Al K    0.15  0.6774   0.22    0.22    0.23   0.41 <  0.42 Al2O3    0.10
+Si K    0.97  0.7953   1.21    0.36    1.21   2.60    0.77  SiO2    0.53
+Ca K   14.33  1.0957  13.07    0.54    9.15  18.29    0.76  CaO     3.99
+Ti K   23.41  0.8534  27.44    1.02   16.06  45.76    1.70  TiO2    7.01
+Sr L    3.57  0.7640   4.67    0.90    1.49   5.52    1.06  SrO     0.65
+Cs L    0.00  0.9377   0.00    0.00    0.00                 Cs2O    0.00
+La L    0.40  0.8943   0.45 <  1.54    0.09   0.53 <  1.81 La2O3    0.04
+Ce L    3.74  0.8990   4.16    1.18    0.83   4.87    1.38 Ce2O3    0.36
+O                     31.38    1.46   55.00                        24.00
+Total                 95.68+/- 3.01 CompSum  95.67+/- 3.49 CatSum  19.64
+                                                           An.Sum  24.00
+-----------------------------------------------
+Spectrum: Spectrum 2                          1-èþí-2016 05:24 PM
+Energy Resn.  Area  TOT.AR.   L./R.time(s)  P.time U(kV)  Perr. 
+  .0   46.44 275184  57916    70.00/83.21      6   20.00  95.45%
+Counted by INCA
+INCA Proc.Option: Oxygen by stoichiometry
+Elmt   A.C.%   IntC.    Wt%  2*Swt%     At%  Comp%  dComp%       Formula
+Na K   17.60  0.7587  23.19    1.08   27.00  31.26    1.46  Na2O   12.22
+Mg K    0.10  0.4979   0.20 <  0.26    0.22   0.34 <  0.43  MgO     0.10
+Al K    0.05  0.6238   0.08 <  0.20    0.08   0.15 <  0.38 Al2O3    0.04
+Si K    0.14  0.7481   0.19 <  0.20    0.18   0.41 <  0.43  SiO2    0.08
+Ca K    0.00  1.1334   0.00    0.00    0.00                 CaO     0.00
+Ti K   30.67  0.8904  34.45    1.02   19.25  57.46    1.70  TiO2    8.71
+Sr L    0.00  0.7219   0.00    0.00    0.00                 SrO     0.00
+Cs L    0.00  0.9848   0.00    0.00    0.00                 Cs2O    0.00
+La L    0.62  0.9274   0.66 <  1.24    0.13   0.78 <  1.45 La2O3    0.06
+Ce L    0.45  0.9273   0.49 <  0.90    0.09   0.57 <  1.05 Ce2O3    0.04
+O                     31.71    1.28   53.04                        24.00
+Total                 90.98+/- 2.52 CompSum  90.97+/- 2.96 CatSum  21.25
+                                                           An.Sum  24.00
+-----------------------------------------------
+Spectrum: Spectrum 3                          1-èþí-2016 05:27 PM
+Energy Resn.  Area  TOT.AR.   L./R.time(s)  P.time U(kV)  Perr. 
+  .0   46.44 275184  54261    70.00/82.00      6   20.00  95.45%
+Counted by INCA
+INCA Proc.Option: Oxygen by stoichiometry
+Elmt   A.C.%   IntC.    Wt%  2*Swt%     At%  Comp%  dComp%       Formula
+Na K   23.72  1.0701  22.17    0.90   27.32  29.88    1.21  Na2O   13.20
+Mg K    1.39  0.5720   2.43    0.40    2.83   4.03    0.66  MgO     1.37
+Al K    3.94  0.6647   5.93    0.46    6.22  11.20    0.87 Al2O3    3.01
+Si K    6.70  0.7046   9.50    0.54    9.59  20.33    1.16  SiO2    4.63
+Ca K    5.22  0.9714   5.38    0.38    3.80   7.52    0.53  CaO     1.84
+Ti K    0.43  0.8084   0.54    0.28    0.32   0.90    0.47  TiO2    0.15
+Sr L    0.40  0.6802   0.58 <  0.90    0.19   0.69 <  1.06  SrO     0.09
+Cs L    0.32  0.8889   0.36 <  0.46    0.08   0.38 <  0.49  Cs2O    0.04
+La L    0.00  0.8459   0.00    0.00    0.00                La2O3    0.00
+Ce L    0.00  0.8496   0.00    0.00    0.00                Ce2O3    0.00
+O                     28.04    1.08   49.66                        24.00
+Total                 74.92+/- 1.97 CompSum  74.93+/- 2.42 CatSum  24.33
+                                                           An.Sum  24.00
+-----------------------------------------------

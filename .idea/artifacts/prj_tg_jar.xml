@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prj_tg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prj_tg_jar</output-path>
+    <root id="archive" name="prj_tg.jar">
+      <element id="module-output" name="prj_tg" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-codec-1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-ooxml-3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-ooxml-schemas-3.14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/stax-api-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/curvesapi-1.03.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
